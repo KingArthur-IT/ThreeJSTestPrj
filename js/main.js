@@ -29,7 +29,7 @@ window.onload = function () {
     });
     const material2 = new THREE.MeshBasicMaterial({
             //map: loader.load('https://webglfundamentals.org/webgl/resources/leaves.jpg'),
-        map: loader.load('pattern.png'),
+        map: loader.load('pattern2.png'),
         transparent: true
      });
 
